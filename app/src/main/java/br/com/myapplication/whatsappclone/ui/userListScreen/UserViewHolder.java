@@ -16,7 +16,7 @@ import br.com.myapplication.whatsappclone.R;
 import br.com.myapplication.whatsappclone.ui.models.User;
 
 /**
- * Created by vihaan on 18/06/17.
+ * Created by Diego Pereira on 08/05/20.
  */
 
 public class UserViewHolder extends RecyclerView.ViewHolder {

@@ -50,7 +50,7 @@ import static br.com.myapplication.whatsappclone.ui.chatscreen.ChatActivity.EXTR
 
 
 /**
- * Created by vihaan on 22/05/17.
+ * Created by Diego Pereira on 08/05/20.
  */
 
 public class ChatFragment extends Fragment {

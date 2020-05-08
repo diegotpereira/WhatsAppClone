@@ -31,7 +31,7 @@ import br.com.myapplication.whatsappclone.ui.models.User;
 import br.com.myapplication.whatsappclone.ui.models.UserChat;
 
 /**
- * Created by vihaan on 20/05/17.
+ * Created by Diego Pereira on 08/05/20.
  */
 
 public class UserChatsFragment extends Fragment {

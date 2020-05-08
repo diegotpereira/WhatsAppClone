@@ -7,6 +7,11 @@ import android.os.Parcelable;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
+
+/**
+ * Created by Diego Pereira on 08/05/20.
+ */
+
 public class ChatListMessage implements Parcelable {
 
     @SerializedName("last_message")

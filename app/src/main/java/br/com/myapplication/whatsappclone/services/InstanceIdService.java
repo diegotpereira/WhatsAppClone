@@ -13,8 +13,8 @@ import com.google.firebase.messaging.FirebaseMessagingService;
 import br.com.myapplication.whatsappclone.ui.Database;
 
 
-/*
- * Created by Mahmoud on 3/13/2017.
+/**
+ * Created by Diego Pereira on 08/05/20.
  */
 
 public class InstanceIdService extends FirebaseMessagingService {

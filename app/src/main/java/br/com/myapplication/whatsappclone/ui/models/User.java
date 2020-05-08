@@ -8,6 +8,12 @@ import com.google.firebase.database.IgnoreExtraProperties;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
 
+
+/**
+ * Created by Diego Pereira on 08/05/20.
+ */
+
+
 @IgnoreExtraProperties
 public class User implements Parcelable {
 

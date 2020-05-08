@@ -12,7 +12,7 @@ import br.com.myapplication.whatsappclone.ui.models.Message;
 
 
 /**
- * Created by vihaan on 18/06/17.
+ * Created by Diego Pereira on 08/05/20.
  */
 
 public class MessageViewHolder extends RecyclerView.ViewHolder {

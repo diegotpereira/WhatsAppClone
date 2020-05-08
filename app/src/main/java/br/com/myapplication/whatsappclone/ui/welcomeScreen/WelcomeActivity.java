@@ -17,7 +17,7 @@ import br.com.myapplication.whatsappclone.ui.homescreen.MainActivity;
 import br.com.myapplication.whatsappclone.ui.verifyPhoneScreen.VerifyPhoneActivity;
 
 /**
- * Created by vihaan on 15/06/17.
+ * Created by Diego Pereira on 08/05/20.
  */
 
 public class WelcomeActivity extends AppCompatActivity implements View.OnClickListener{

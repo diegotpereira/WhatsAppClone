@@ -30,7 +30,7 @@ import br.com.myapplication.whatsappclone.ui.homescreen.MainActivity;
 import br.com.myapplication.whatsappclone.ui.models.User;
 
 /**
- * Created by vihaan on 16/06/17.
+ * Created by Diego Pereira on 08/05/20.
  */
 
 public class CreateUserActivity extends AppCompatActivity implements View.OnClickListener {

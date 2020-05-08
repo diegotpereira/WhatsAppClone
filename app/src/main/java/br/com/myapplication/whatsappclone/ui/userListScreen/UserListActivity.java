@@ -14,7 +14,7 @@ import br.com.myapplication.whatsappclone.R;
 
 
 /**
- * Created by vihaan on 18/06/17.
+ * Created by Diego Pereira on 08/05/20.
  */
 
 public class UserListActivity extends AppCompatActivity {

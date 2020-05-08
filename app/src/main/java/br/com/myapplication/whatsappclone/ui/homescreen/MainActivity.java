@@ -31,7 +31,9 @@ import br.com.myapplication.whatsappclone.ui.userListScreen.UserListActivity;
 import br.com.myapplication.whatsappclone.ui.welcomeScreen.WelcomeActivity;
 
 import static br.com.myapplication.whatsappclone.ui.chatscreen.ChatActivity.tag;
-
+/**
+ * Created by Diego Pereira on 08/05/20.
+ */
 
 public class MainActivity extends AppCompatActivity {
 
